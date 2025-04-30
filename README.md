@@ -16,6 +16,5 @@
 
 ### Stats
 
-<div id="stats" align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xJaSzyy&theme=dark" alt=""/>
-</div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xJaSzyy&theme=dark" alt=""/>
+
