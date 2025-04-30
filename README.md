@@ -1,3 +1,7 @@
+<a href="https://t.me/xJasz">
+  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-blue" >
+</a>
+
 ### Languages and tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="csharp" width="40" height="40"/>&nbsp;
@@ -18,16 +22,4 @@
 ### Stats
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xJaSzyy&theme=dark" alt=""/>
-
-
-### About me
-
-<div id="socials" align="right">
-    <a href="gmail-url">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-red" >
-  </a>
-  <a href="telegram-url">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-blue" >
-  </a>
-</div>
 
